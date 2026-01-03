@@ -1,7 +1,7 @@
 ;;; quickrun.el --- Run commands quickly  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2017 by Syohei YOSHIDA
-;; Copyright (C) 2020-2025 by Jen-Chieh Shen
+;; Copyright (C) 2020-2026 by Jen-Chieh Shen
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
